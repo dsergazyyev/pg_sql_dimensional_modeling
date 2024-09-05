@@ -1,4 +1,4 @@
-# pg_sql_dimensional_modeling
+# Dimensional Modeling: Snowflake and Data Exploration
 
 Snowflake model made by separating a flat table into several tables. Two scripts were needed to make this modeling and one more to explore the data: 
 - create_tables: contains (ddl) create as name of a script suggests
