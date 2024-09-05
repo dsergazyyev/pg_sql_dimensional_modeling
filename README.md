@@ -6,4 +6,5 @@ Snowflake model made by separating a flat table into several tables. Two scripts
 - exploration: some business questions to answer divided into easy, medium, and advanced queries
 
 Here is ER diagram showing before and after xd
+
 <img width="545" alt="er" src="https://github.com/user-attachments/assets/f1d365d2-fca6-4df4-9965-fecc8139b74d">
